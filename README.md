@@ -1,4 +1,4 @@
-# Mystery  Educator
+# Bug/Issue Tracker
 
 ## Application setup
 
